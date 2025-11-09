@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpikachu_volleyball_p2p_online=self.webpackChunkpikachu_volleyball_p2p_online||[]).push([[981],{981:(l,e,p)=>{p.r(e),p(7369),p(1301),p(6194),p(3163),p(6725),p(3118),p(7407),p(5078),p(945),p(815),p(8541),p(5049)}}]);
