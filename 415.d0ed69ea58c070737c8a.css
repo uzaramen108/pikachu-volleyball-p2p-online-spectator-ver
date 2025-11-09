@@ -585,6 +585,10 @@ div.fixed {
   grid-column-start: 2;
   font-size: var(--font-size);
 }
+#show-list-for-spectator {
+  grid-column-start: 3;
+  font-size: var(--font-size);
+}
 div.scroll {
   overflow: scroll;
 }
@@ -1067,4 +1071,4 @@ input.toggle-switch:checked + label::before {
 }
 
 
-/*# sourceMappingURL=415.7180e9f1204b6c008ec4.css.map*/
+/*# sourceMappingURL=415.d0ed69ea58c070737c8a.css.map*/
