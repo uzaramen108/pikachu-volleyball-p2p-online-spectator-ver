@@ -1093,13 +1093,5 @@ input.toggle-switch:checked + label::before {
 #spectator-room-list-table tr {
   height: 40px;
 }
-#notice-end-of-spectation-ok-btn {
-  display: inline-block;
-  margin: 0 5px;
-}
-#notice-end-of-spectation-no-btn {
-  display: inline-block;
-  margin: 0 5px;
-}
 
-/*# sourceMappingURL=415.37d53ac81df9f64a82f7.css.map*/
+/*# sourceMappingURL=415.0febadc113be74889ee5.css.map*/
