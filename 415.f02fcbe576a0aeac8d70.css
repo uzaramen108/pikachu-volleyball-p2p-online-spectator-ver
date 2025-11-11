@@ -1088,10 +1088,10 @@ input.toggle-switch:checked + label::before {
 }
 #spectator-room-list-table td {
   text-align: center;
-  width: 200px;
+  width: 300%;
 }
 #spectator-room-list-table tr {
-  height: 40px;
+  height: 150%;
 }
 
-/*# sourceMappingURL=415.0febadc113be74889ee5.css.map*/
+/*# sourceMappingURL=415.f02fcbe576a0aeac8d70.css.map*/
