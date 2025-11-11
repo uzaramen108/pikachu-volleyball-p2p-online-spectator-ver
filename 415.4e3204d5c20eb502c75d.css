@@ -1069,9 +1069,6 @@ input.toggle-switch:checked + label::before {
   left: var(--toggle-ball-left);
   content: '\263E';
 }
-#spectator-room-list-box {
-  justify-content: center;
-}
 .spectator-room-row {
   height: 150%;
   cursor: pointer;
@@ -1092,4 +1089,4 @@ input.toggle-switch:checked + label::before {
   border-radius: 0px;
 }
 
-/*# sourceMappingURL=415.7ca9f67e52b3b3df40e9.css.map*/
+/*# sourceMappingURL=415.4e3204d5c20eb502c75d.css.map*/
