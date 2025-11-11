@@ -1071,12 +1071,17 @@ input.toggle-switch:checked + label::before {
 }
 .spectator-room-row {
   cursor: pointer;
-  padding: 20%;
+  width: 300%;
+  height: 150%;
   transition: background-color 0.2s;
+  background-color: #002e4d;
 }
 .spectator-room-row:hover {
-  background-color: #e0e0e0;
+  background-color: #0078ab;
+}
+#spectator-room-list-table {
+  width: 300%;
+  height: 150%;
 }
 
-
-/*# sourceMappingURL=415.8b0f716da56b0d0aa4d9.css.map*/
+/*# sourceMappingURL=415.0da52f26c114e8623c76.css.map*/
