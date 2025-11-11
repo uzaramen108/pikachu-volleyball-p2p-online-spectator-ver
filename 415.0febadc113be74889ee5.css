@@ -1090,5 +1090,8 @@ input.toggle-switch:checked + label::before {
   text-align: center;
   width: 200px;
 }
+#spectator-room-list-table tr {
+  height: 40px;
+}
 
-/*# sourceMappingURL=415.c1182bfbb2f2403d40dd.css.map*/
+/*# sourceMappingURL=415.0febadc113be74889ee5.css.map*/
