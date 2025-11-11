@@ -1070,6 +1070,7 @@ input.toggle-switch:checked + label::before {
   content: '\263E';
 }
 .spectator-room-row {
+  width: 200%;
   cursor: pointer;
   transition: background-color 0.2s;
   border-left-width: 0px;
@@ -1086,9 +1087,8 @@ input.toggle-switch:checked + label::before {
 */
 #spectator-room-list-table {
   height: 150%;
-  width: 150%;
   text-align: center;
   margin: auto;
 }
 
-/*# sourceMappingURL=415.5d86017c4831029ce5aa.css.map*/
+/*# sourceMappingURL=415.bcdcfb53a02fcee069f0.css.map*/
