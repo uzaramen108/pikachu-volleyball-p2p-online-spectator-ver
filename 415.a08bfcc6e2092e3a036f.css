@@ -1083,10 +1083,11 @@ input.toggle-switch:checked + label::before {
 }
 */
 #spectator-room-list-table {
+  margin: auto;
   height: 150%;
   width: 200%;
   align-items: center;
   text-align: center;
 }
 
-/*# sourceMappingURL=415.20c5023b45ddc7169432.css.map*/
+/*# sourceMappingURL=415.a08bfcc6e2092e3a036f.css.map*/
