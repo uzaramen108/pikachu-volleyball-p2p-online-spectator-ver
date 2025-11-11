@@ -1084,11 +1084,10 @@ input.toggle-switch:checked + label::before {
 */
 #spectator-room-list-table {
   position: absolute;
-  height: 150%;
-  width: 300%;
+  width: 40%;
   text-align: center;
   margin: auto;
   border-radius: 0px;
 }
 
-/*# sourceMappingURL=415.7af5656a40c3b8277fe3.css.map*/
+/*# sourceMappingURL=415.018bc17835f2a6682f97.css.map*/
