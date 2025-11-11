@@ -1071,17 +1071,22 @@ input.toggle-switch:checked + label::before {
 }
 .spectator-room-row {
   cursor: pointer;
-  width: 300%;
-  height: 150%;
   transition: background-color 0.2s;
   background-color: #002e4d;
 }
 .spectator-room-row:hover {
   background-color: #0078ab;
 }
-#spectator-room-list-table {
-  width: 300%;
+/*
+#spectator-room-list-content {
   height: 150%;
 }
+*/
+#spectator-room-list-table {
+  height: 150%;
+  width: 200%;
+  align-items: center;
+  text-align: center;
+}
 
-/*# sourceMappingURL=415.0da52f26c114e8623c76.css.map*/
+/*# sourceMappingURL=415.20c5023b45ddc7169432.css.map*/
