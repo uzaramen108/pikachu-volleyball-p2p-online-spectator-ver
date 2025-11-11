@@ -1093,5 +1093,16 @@ input.toggle-switch:checked + label::before {
 #spectator-room-list-table tr {
   height: 40px;
 }
+#notice-end-of-spectation {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 15px;
+}
+.btn-in-box {
+  width: auto;
+  flex-grow: 1;
+  flex-basis: 0;
+}
 
-/*# sourceMappingURL=415.0febadc113be74889ee5.css.map*/
+/*# sourceMappingURL=415.996d8a2cc8fd23c1e69d.css.map*/
