@@ -1083,6 +1083,7 @@ input.toggle-switch:checked + label::before {
 }
 */
 #spectator-room-list-table {
+  position: absolute;
   height: 150%;
   width: 200%;
   text-align: center;
@@ -1090,4 +1091,4 @@ input.toggle-switch:checked + label::before {
   border-radius: 0px;
 }
 
-/*# sourceMappingURL=415.9a92afb00ed15a0bae33.css.map*/
+/*# sourceMappingURL=415.3289ba1850d46c48a0ba.css.map*/
