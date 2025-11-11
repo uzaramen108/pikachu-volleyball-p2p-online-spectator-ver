@@ -1069,6 +1069,14 @@ input.toggle-switch:checked + label::before {
   left: var(--toggle-ball-left);
   content: '\263E';
 }
+.spectator-room-row {
+  cursor: pointer;
+  padding: 20%;
+  transition: background-color 0.2s;
+}
+.spectator-room-row:hover {
+  background-color: #e0e0e0;
+}
 
 
-/*# sourceMappingURL=415.d0ed69ea58c070737c8a.css.map*/
+/*# sourceMappingURL=415.8b0f716da56b0d0aa4d9.css.map*/
