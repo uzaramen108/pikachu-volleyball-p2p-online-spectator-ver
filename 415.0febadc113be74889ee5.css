@@ -1093,11 +1093,5 @@ input.toggle-switch:checked + label::before {
 #spectator-room-list-table tr {
   height: 40px;
 }
-#notice-end-of-spectation {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  margin-top: 15px;
-}
 
-/*# sourceMappingURL=415.fef5f373cca8ae185982.css.map*/
+/*# sourceMappingURL=415.0febadc113be74889ee5.css.map*/
