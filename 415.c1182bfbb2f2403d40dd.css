@@ -1083,10 +1083,12 @@ input.toggle-switch:checked + label::before {
 }
 */
 #spectator-room-list-table {
-  width: 50%;
-  text-align: center;
   border-collapse: collapse;
   margin-bottom: 20px;
 }
+#spectator-room-list-table td {
+  text-align: center;
+  width: 200px;
+}
 
-/*# sourceMappingURL=415.1503d4a49b455c5dfc00.css.map*/
+/*# sourceMappingURL=415.c1182bfbb2f2403d40dd.css.map*/
