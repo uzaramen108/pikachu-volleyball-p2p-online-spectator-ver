@@ -1099,10 +1099,5 @@ input.toggle-switch:checked + label::before {
   gap: 10px;
   margin-top: 15px;
 }
-.btn-in-box {
-  width: auto;
-  flex-grow: 1;
-  flex-basis: 0;
-}
 
-/*# sourceMappingURL=415.996d8a2cc8fd23c1e69d.css.map*/
+/*# sourceMappingURL=415.fef5f373cca8ae185982.css.map*/
