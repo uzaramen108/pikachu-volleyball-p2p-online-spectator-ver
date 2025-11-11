@@ -1072,6 +1072,8 @@ input.toggle-switch:checked + label::before {
 .spectator-room-row {
   cursor: pointer;
   transition: background-color 0.2s;
+  border-left-width: 0px;
+  border-right-width: 0px;
   background-color: #002e4d;
 }
 .spectator-room-row:hover {
@@ -1083,9 +1085,10 @@ input.toggle-switch:checked + label::before {
 }
 */
 #spectator-room-list-table {
-  margin: auto;
   height: 150%;
+  width: 150%;
   text-align: center;
+  margin: auto;
 }
 
-/*# sourceMappingURL=415.aa66f28fec479a4c2dba.css.map*/
+/*# sourceMappingURL=415.5d86017c4831029ce5aa.css.map*/
